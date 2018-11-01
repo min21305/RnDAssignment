@@ -3,7 +3,7 @@
 ## To run this application execute the below commands:
 
 1. Go to the Root directory (e.g. ../RnDAssignment/) of project in command prompt and run 
-    mvn clean install 
+    "mvn clean install"
 
 2. Now execute " mvn spring-boot:run " command this will start you application
 
